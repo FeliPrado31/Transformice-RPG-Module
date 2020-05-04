@@ -1,6 +1,6 @@
 # Transformice RPG Module 🎉
 
-Simple module in development, focused on rpgSimple module in development, focused on rpg
+Simple module in development, focused on rpg
 
 #### Functionalities of module: ⌨
 
